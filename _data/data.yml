@@ -115,11 +115,11 @@ education:
 #       details: |
 
 
-# educationcomplete:
-#     - degree: Applied Scientists Intern at Amazon AWS
-#       university: P. Perona, Pasadena, CA, USA
-#       time: 2019 - current
-#       details: |
+educationcomplete:
+    - degree: Applied Scientists Intern at Amazon AWS
+      university: P. Perona, Pasadena, CA, USA
+      time: 2019 - current
+      details: |
 
 #     - degree: PhD in Computer vision and Machine learning
 #       university: Heidelberg University
@@ -291,5 +291,5 @@ skills:
       - name: C/C++
         level: 75%
 
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    resume
