@@ -171,6 +171,7 @@ experiences:
         AI based stock market Alpha forecasting
           - Worked on end to end ML process including feature engineering, preprocessing and Built custom LSTM models using Tensorflow
           - Woked as technical follow for the team. Gathered and defined customer requirements to develop clear specifications for visualizing the predictions
+    
     - role: Technical Analyst
       time: 07/2017 – 10/2018
       company: HashedIn Technologies
@@ -222,14 +223,14 @@ experiences:
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-#     title: Publications
-#     intro: |
+    title: Publications
+    intro: |
       
 
-#     papers:
-#       - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-#         authors: B. Brattoli*, K. Roth*, B. Ommer
-#         conference: ICCV, 2019
+    papers:
+      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+        authors: B. Brattoli*, K. Roth*, B. Ommer
+        conference: ICCV, 2019
 
 #       - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
 #         authors: B. Brattoli*, U. Buechler*, B. Ommer
