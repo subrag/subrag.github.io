@@ -7,49 +7,49 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
-    tagline: Computer Vision and Machine Learning researcher
+    name: Subrahmanya Ganapumane
+    tagline: Certified AWS ML Speciality | Senior Software Engineer at HashedIn Technologies Pvt Ltd
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: biagio.brattoli@gmail.com
     phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    website: subrag.github.io/ #do not add http://
+    linkedin: subrag
+    github: subrag
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    twitter: '@subrag25'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Fluent
+#     languages:
+#       - idiom: English
+#         level: Fluent
 
-      - idiom: Italian
-        level: Native
+#       - idiom: Italian
+#         level: Native
 
-      - idiom: German
-        level: Colloquial
+#       - idiom: German
+#         level: Colloquial
 
-    interests:
-      - item: Guitar
-        link:
+#     interests:
+#       - item: Guitar
+#         link:
 
-      - item: Basketball
-        link:
+#       - item: Basketball
+#         link:
 
-      - item: Biking
-        link:
+#       - item: Biking
+#         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field.
-
+      Fullstack and Machine Learning Engineer skilled with 2.5 years of experience building and transforming
+      prototype to production-grade web applications and ML Solutions. Enthusiast to work on research-based
+      Deep Learning projects
 news:
     title: News
     intro: |
@@ -84,83 +84,83 @@ news:
           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: BE in Electronics And Communications Engineering
+      university: Sri Jayachamarajendra College Of Engineering Mysore
+      time: 2013 - 2017
       details: |
      
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
+#     - degree: PhD in Computer vision and Machine learning
+#       university: Heidelberg University
+#       time: 2015 - current
+#       details: |
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
+#     - degree: Internship (Master Thesis)
+#       university: Tobii
+#       time: 2014 - 2015
+#       details: |
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
+#     - degree: Master Degree
+#       university: KTH (Stockholm, Sweden)
+#       time: 2013 - 2015
+#       details: |
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
+#     - degree: Master Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2012 - 2015
+#       details: |
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
+#     - degree: Bachelor Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2009 - 2012
+#       details: |
 
 
-educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
-      details: |
+# educationcomplete:
+#     - degree: Applied Scientists Intern at Amazon AWS
+#       university: P. Perona, Pasadena, CA, USA
+#       time: 2019 - current
+#       details: |
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
+#     - degree: PhD in Computer vision and Machine learning
+#       university: Heidelberg University
+#       time: 2015 - current
+#       details: |
+#         Unsupervised deep learning for automatic behavior analysis
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
+#           - Unsupervised learning
+#           - Representaion learning
+#           - Automatic Behavior Analysis
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+#     - degree: Internship (Master Thesis)
+#       university: Tobii
+#       time: 2014 - 2015
+#       details: |
+#         Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-          - Deep learning
-          - Hand Gesture
+#           - Deep learning
+#           - Hand Gesture
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
+#     - degree: Master Degree
+#       university: KTH (Stockholm, Sweden)
+#       time: 2013 - 2015
+#       details: |
+#         Master degree in Computer Science and Artificial Intelligence
 
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
+#           - Artificial Intelligence
+#           - Machine Learning
+#           - Computer Vision
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
+#     - degree: Master Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2012 - 2015
+#       details: |
+#         Master degree in Software Engineering
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
+#     - degree: Bachelor Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2009 - 2012
+#       details: |
+#         Master degree in Computer Engineering
 
 
 #experiences:
@@ -291,5 +291,5 @@ skills:
       - name: C/C++
         level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
