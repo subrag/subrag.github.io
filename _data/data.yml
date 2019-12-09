@@ -282,20 +282,21 @@ skills:
     toolset:
       - name: Python
         level: 100%
-
-      - name: PyTorch
+        
+      - name: Machine Learning
+      
+      - name: Fullstack
+        
+      - name: Django
         level: 90%
 
       - name: Tensorflow
-        level: 60%
+        level: 70%
 
-      - name: Caffe
-        level: 80%
-
-      - name: Matlab
+      - name: OpenCV
         level: 90%
 
-      - name: C/C++
+      - name: AWS Sagemaker
         level: 75%
 
 footer: 
