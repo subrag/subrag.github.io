@@ -235,7 +235,7 @@ projects:
         tagline: "Autentication using keystroke dymamics. Used Oneshot Learning approch to train neural network using Tesorflow 2.0"
 
       - title: The Happy HelpLine
-        link: "#http://thehappyhelpline.com/"
+        link: "http://thehappyhelpline.com/"
         tagline: "Web application which is brings people in need and one who willing to help in common place"
 
       #- title: Delta
