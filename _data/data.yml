@@ -180,6 +180,25 @@ experiences:
           - Worked on Master Data Management system(MDM) project for Pharmaceutical company AHWSPL
           - Built business workflow for data cleaning and regular updating
           - Worked on database designs, Frontend, API designs, cron jobs, Triggrs
+          
+    - role: Intern
+      time: 02/2017 – 07/2017
+      company: HashedIn Technologies
+      details: |
+        Project HiWay
+          - Built a Employee Management System for Hashedin as internal project
+          - Developed funcationalities for performance tracker, Leave, project allocation, report generation
+          - Techstack: Django and AngularJS
+    
+    - role: Intern
+      time: 05/2015 – 08/2015
+      company: Indian Academy of Science
+      details: |
+        SRFP-2015
+          - Worked as an Intern in Summer Research Fellowship Program
+          - Worked on heartbeat detection application by monitoring the facial and wrist motions using Eulerian Video Magnification
+          - Used same EVM to magnify and observe the vibrations on the mechanical parts
+          - Under the guidence of Dr. Venkatesh Vadde
 
     #- role: UI Developer
       #time: 2012 - 2014
