@@ -218,26 +218,25 @@ projects:
 #     intro: >
 #       Developed OCR System, through which more than 5000+ Malayalam scripts were digitized. Under the guidence of Dr. CS Yogananda.
       
-    title: Interactive Guided Meditation App
+    title: Projects
     intro: >
-      App which tracks breathing patterns and guides meditation to elevate the mindfulness. 
-      Based on Lucas-Kanade optical flow algorithm
+      
     assignments:
       - title: OCR System for printed Malayalam Scripts
         link: "#"
         tagline: "Developed OCR System, through which more than 5000+ Malayalam scripts were digitized. Under the guidence of Dr. CS Yogananda."
 
-      #- title: DevStudio
-        #link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Interactive Guided Meditation App
+        link: "#"
+        tagline: "App which tracks breathing patterns and guides meditation to elevate the mindfulness. Based on Lucas-Kanade optical flow algorithm"
 
-      #- title: Tempo
-        #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: KeyMatrix - AI in Security
+        link: "#"
+        tagline: "Autentication using keystroke dymamics. Used Oneshot Learning approch to train neural network using Tesorflow 2.0"
 
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: The Happy HelpLine
+        link: "#http://thehappyhelpline.com/"
+        tagline: "Web application which is brings people in need and one who willing to help in common place"
 
       #- title: Delta
         #link: "#"
