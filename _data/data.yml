@@ -241,15 +241,15 @@ experiences:
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
+# publications:
+#     title: Publications
+#     intro: |
       
 
-    papers:
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
+#     papers:
+#       - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+#         authors: B. Brattoli*, K. Roth*, B. Ommer
+#         conference: ICCV, 2019
 
 #       - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
 #         authors: B. Brattoli*, U. Buechler*, B. Ommer
