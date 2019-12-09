@@ -214,18 +214,18 @@ experiences:
           #- Bullet point
 
 projects:
-    title: OCR System for printed Malayalam Scripts
-    intro: >
-      Developed OCR System, through which more than 5000+ Malayalam scripts were digitized. Under the guidence of Dr. CS Yogananda.
+#     title: OCR System for printed Malayalam Scripts
+#     intro: >
+#       Developed OCR System, through which more than 5000+ Malayalam scripts were digitized. Under the guidence of Dr. CS Yogananda.
       
     title: Interactive Guided Meditation App
     intro: >
       App which tracks breathing patterns and guides meditation to elevate the mindfulness. 
       Based on Lucas-Kanade optical flow algorithm
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: OCR System for printed Malayalam Scripts
+        link: "#"
+        tagline: "Developed OCR System, through which more than 5000+ Malayalam scripts were digitized. Under the guidence of Dr. CS Yogananda."
 
       #- title: DevStudio
         #link: "#"
