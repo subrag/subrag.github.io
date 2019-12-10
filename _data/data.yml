@@ -170,7 +170,7 @@ experiences:
       details: |
         AI based stock market Alpha forecasting
           - Worked on end to end ML process including feature engineering, preprocessing and Built custom LSTM models using Tensorflow
-          - Woked as technical follow for the team. Gathered and defined customer requirements to develop clear specifications for visualizing the predictions
+          - Woked as technical fellow for the team. Gathered and defined customer requirements to develop clear specifications for visualizing the predictions
     
     - role: Technical Analyst
       time: 07/2017 – 10/2018
@@ -236,7 +236,7 @@ projects:
 
       - title: The Happy HelpLine
         link: "http://thehappyhelpline.com/"
-        tagline: "Web application which is brings people in need and one who willing to help in common place"
+        tagline: "Web application which brings people in need and one who are willing to help in common place"
 
       #- title: Delta
         #link: "#"
